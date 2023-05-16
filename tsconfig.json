@@ -7,7 +7,7 @@
         ],
         "allowJs": true,
         "outDir": "build",
-        "rootDir": "src/infraestructure",
+        "rootDir": "src/Transactions",
         "strict": true,
         "noImplicitAny": true,
         "esModuleInterop": true,
