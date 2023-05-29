@@ -4,5 +4,5 @@
     ],
     "ext": ".ts,.js",
     "ignore": [],
-    "exec": "npx ts-node ./src/Transactions/infraestructure/index.ts"
+    "exec": "npx ts-node ./src/btcService/infraestructure/rest/index.ts"
 }

@@ -1,0 +1,4 @@
+En esta carpeta se llevara acabo las conexiones e instanciaciones externas, asi como 
+la comunicación entre servicios de infraestructuras a travez de eventos o cualquier metodo.
+
+Toda la instanciación graphQl tendra lugar aqui pero solo los resolvers pertinentes a este servicio.

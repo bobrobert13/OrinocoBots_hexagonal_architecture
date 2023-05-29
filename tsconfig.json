@@ -7,7 +7,7 @@
         ],
         "allowJs": true,
         "outDir": "build",
-        "rootDir": "src/Transactions",
+        "rootDir": "src/btcService",
         "strict": true,
         "noImplicitAny": true,
         "esModuleInterop": true,

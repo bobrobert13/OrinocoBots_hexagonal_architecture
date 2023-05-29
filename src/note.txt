@@ -1,0 +1,6 @@
+Se esta usando la arquitectura hexagonal buscando la organización a su vez con el modelo Vertical Slicing 
+para observación directa de entidades a nivel de infraestructura y le hacemos un poco de Screaming para 
+compactar cada nivel interno en definiciones especificas.
+
+Lo recomendable es usar el estandar de Domain Driver Design para el nombramiento de los archivos, 
+concretamente los casos de usos y servicios.
